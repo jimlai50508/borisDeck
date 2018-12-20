@@ -13,4 +13,4 @@
 ### 使用套件
 - Vuex & Vue Router 管理資料及控制路由
 - vuedraggable 控制網頁元素拖曳動作
-- Element UI 快速增加網頁元素。
+- Element UI 快速增加網頁元素
